@@ -1,0 +1,32 @@
+
+.Ang {
+
+    color: lightblue;
+}
+
+.col-lg-9 {
+    background-color: lightblue;
+}
+
+.footer-angelo {
+    color: white;
+}
+
+
+/*aboutme*/
+.Me{
+    color:red;
+}
+
+
+/* portfolio */
+/*.css-info {
+    border: solid black;
+
+}*/
+
+.languages {
+
+    border-radius: 2%;
+    border-color: blue;
+}
