@@ -1,4 +1,12 @@
 
+body {
+    background-image:  url("portfolioback.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100% !important;
+    width: 100% !important;
+  }
 .Ang {
 
     color: lightblue;
@@ -17,14 +25,6 @@
 .Me{
     color:red;
 }
-
-
-/* portfolio */
-/*.css-info {
-    border: solid black;
-
-}*/
-
 .languages {
 
     border-radius: 2%;
@@ -54,9 +54,15 @@ p,h2{
     align-content: center;
 }
 
-.container {
-    background-image: url("whitebackground.png");
+.container1 {
+    
     background-color: black;
+}
 
+.card {
+    margin: 1rem;
+}
 
+.link {
+    color: white;
 }

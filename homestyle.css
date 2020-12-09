@@ -1,0 +1,107 @@
+
+
+body{
+    background-color: rgb(10, 233, 222);
+    background-image: url('backgroundnightsky.png');
+}
+
+.Ang {
+
+    color: lightblue;
+}
+
+.container {
+  /*   border: solid red; */
+    height: 80%;
+}
+
+h2,h1{
+    font-family: 'Sansita Swashed', cursive;
+   color: whitesmoke;
+   font-size: 50px;
+}
+
+p{
+  font-family: 'Sansita Swashed', cursive;
+  color: whitesmoke;
+  font-size: 30px;
+}
+
+.introduction{
+    align-content: center;
+    width: 300px;
+    height: 100px;  
+    padding: 50px;
+  /*   border: 1px solid red; */
+}
+.box1 {
+    width: 300px;
+    height: 100px;  
+    padding: 50px;
+  /*   border: 1px solid red; */
+
+}
+.box2 {
+    width: 300px;
+    height: 100px;  
+    padding: 50px;
+   /*  border: 1px solid red; */
+
+}
+
+#profile{
+ position: relative;
+ left: 65%;
+ top: 10%;
+}
+
+@media only screen and (max-width: 767px) {
+
+  h2,h1{
+    font-family: 'Sansita Swashed', cursive;
+   color: whitesmoke;
+   font-size: 30px;
+}
+
+p{
+  font-family: 'Sansita Swashed', cursive;
+  color: whitesmoke;
+  font-size: 15px;
+}
+
+.introduction{
+    align-content: center;
+    width: 300px;
+    height: 100px;  
+    padding: 50px;
+  /*   border: 1px solid red; */
+}
+.box1 {
+    width: 300px;
+    height: 100px;  
+    padding: 50px;
+  /*   border: 1px solid red; */
+
+}
+.box2 {
+    width: 300px;
+    height: 100px;  
+    padding: 50px;
+   /*  border: 1px solid red; */
+
+}
+
+#profile{
+  width: 250px;
+  height: 350px;
+ position: relative;
+ left: 45%;
+ bottom: 10%;
+}
+.socialIcon{
+
+  position: relative;
+  left: 0%;
+   
+}
+}
