@@ -1,11 +1,12 @@
 
 body {
-    background-image:  url("happy-boy-working-with-computer_102172-41.jpg");
+    background-image:  url("codingboyeditedv2.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
     height: 100% !important;
     width: 100% !important;
+    opacity: - 0.5;
   }
 
   .me {
