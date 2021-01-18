@@ -1,92 +1,30 @@
 
 body {
-    background-image:  url("coding.jpg");
+    background-image:  url("happy-boy-working-with-computer_102172-41.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
     height: 100% !important;
     width: 100% !important;
   }
+
+  .me {
+    z-index: 1;
+  }
+  
+  .container {
+      background-color: transparent;
+  }
+  p,h2{
+    font-family: 'Sansita Swashed', cursive;
+    columns: yellow;
+}
 .Ang {
 
     color: lightblue;
 }
-p,h2{
-    font-family: 'Sansita Swashed', cursive;
-    columns: yellow;
-}
 
-/* .col-lg-9 {
-    background-color: lightblue;
-} */
-
-.footer-angelo {
-    color: white;
-}
-
-
-/*aboutme*/
-.Me{
-    color:red;
-}
-.languages {
-
-    border-radius: 2%;
-    border-color: blue;
-}
-p,h2{
-    font-family: 'Sansita Swashed', cursive;
-    columns: yellow;
-}
-.profileimage {
-    background-color: white;
-    width: 200px;
-    height: 200px;
-}
-.logo {
-    width: 45px;
-    height: 45px;
-}
-/* .row {
-    border: solid red;
-} */
-
-.myskill {
-    font-family: 'Courier New', Courier, monospace;
-    text-shadow: 2px 2px #3a7a0f8f;
-}
-
-.page-footer {
-    width: 100%;
-    bottom: 0%;
-    position: absolute;
-    align-content: center;
-}
-
-.container1 {
-    
-    background-color: black;
-}
-
-.card {
-    margin: 1rem;
-}
-.row {
-    width: auto;
-}
-
-.link {
-    color: white;
-}
-
-.learnt {
-    background-color: rgb(122, 86, 122);
-    color:rgb(0, 0, 0);
-    border: solid blue;
-
-    
-}
-
+  
 
 .icon-bar {
     position: fixed;
