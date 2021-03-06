@@ -1,14 +1,19 @@
 
 body {
     background-image:  url("https://res.cloudinary.com/ningthangom/image/upload/v1615068824/portfolio/codingboyeditedvtwo_hcaizs.png");
-    background-color: gray;
+ /*    background-color: gray;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
     height: 100% !important;
     width: 100% !important;
     opacity: - 0.5;
-    z-index: -1;
+    z-index: -1; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100% !important;
+    width: 100% !important;
   }
 
   .me {
